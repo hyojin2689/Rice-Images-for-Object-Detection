@@ -3,6 +3,7 @@ import os
 import random
 import pandas as pd
 import json
+import xml.etree.cElementTree as e
 
 path = '/content/drive/MyDrive/객체탐지/json_label'
 file_list = os.listdir(path)
