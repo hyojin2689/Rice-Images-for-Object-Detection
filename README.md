@@ -6,7 +6,7 @@
 #### labelImg를 사용하여 각각 이미지의 라벨링 정보를 xml 형태로 저장 : Pascal VOC 형식
 #### ㅤ
 ### 1-2. Data Sample (Bounding Box)
-![image](https://user-images.githubusercontent.com/80669371/134619825-6507cd10-ff7f-4440-8203-150584c3937e.png) ![image](https://user-images.githubusercontent.com/80669371/134619832-44c5affd-8da4-44cc-a0d4-4ef10d72d84f.png)
+![image](https://user-images.githubusercontent.com/80669371/134619825-6507cd10-ff7f-4440-8203-150584c3937e.png)![image](https://user-images.githubusercontent.com/80669371/134619832-44c5affd-8da4-44cc-a0d4-4ef10d72d84f.png)
 #### ●Train dataset : 32
 #### ●Validation dataset : 8
 #### ●Test data set : 10
